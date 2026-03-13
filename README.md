@@ -82,7 +82,7 @@ A **telemetry overlay for Euro Truck Simulator 2 and American Truck Simulator** 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcinekk&layout=compact&theme=tokyonight" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Marcinekk&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcinekk&hide=html,css&langs_count=10&layout=compact&theme=tokyonight)" />
 </p>
 
 ---
